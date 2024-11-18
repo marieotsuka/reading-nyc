@@ -1,0 +1,52 @@
+*{
+	border: 0;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+:root{
+	--pad: 3rem;
+}
+main{
+	display: grid;
+	grid-template-columns: repeat(14, 1fr);
+	overflow-x: scroll;
+	scroll-snap-type: x mandatory;
+}
+.street{
+	border: 3px solid red;
+	width: 100vw;
+	height: 100vh;
+	overflow-y: scroll;
+	scroll-snap-align: center;
+}
+.street-commercial{
+	height: 50vh;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+h2{
+	text-align: center;
+}
+.content{
+	background: #999999;
+	height: 200vh;
+	position: relative;
+	padding: var(--pad);
+}
+.numbers{
+	position: absolute;
+	right: 0;
+	top: 0;
+	display: flex;
+	flex-direction: column;
+	height: 200vh;
+}
+.numbers li{
+	list-style-type: none;
+	flex: 1;
+}
+.numbers.odd{
+	left: 0;
+}
