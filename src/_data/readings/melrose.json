@@ -1,7 +1,7 @@
 [
 	{
 		"type": "address",
-		"text": [0, 444]
+		"coords": [0, 444]
 	},
 	{
 		"type": "header",
@@ -9,16 +9,16 @@
 	},
 	{
 		"type": "address",
-		"text": [0, 438]
+		"coords": [0, 438]
 	},
 	{	
 		"type": "textimg",
-		"text": "THE CITY IS A LANGU<br>AGE",
+		"text": "THE CITY IS A LANGU&shy;AGE",
 		"style": "--wdth: 200; --wght: 900"
 	},
 	{
 		"type": "address",
-		"text": [433, 434]
+		"coords": [433, 434]
 	},
 	{
 		"type": "text",
@@ -26,24 +26,24 @@
 	},
 	{
 		"type": "address",
-		"text": [431, 432]
+		"coords": [431, 432]
 	},
 	{
 		"type": "address",
-		"text": [429, 430]
+		"coords": [429, 430]
 	},
 	{
 		"type": "address",
-		"text": [427, 428]
+		"coords": [427, 428]
 	},
 	{
 		"type": "textimg",
-		"text": "Every Building<br>on the Sunset Strip<br>Ed<br>Ruscha",
+		"text": "Every Building<br>on the Sunset Strip<br>Ed Ruscha",
 		"style": "--wdth: 200; --wght: 420"
 	},
 	{
 		"type": "address",
-		"text": [425, 426]
+		"coords": [425, 426]
 	},
 	{
 		"type": "text",
@@ -51,7 +51,7 @@
 	},
 	{
 		"type": "address",
-		"text": [423, 424]
+		"coords": [423, 424]
 	},
 	{
 		"type": "quote",
@@ -60,7 +60,7 @@
 	},
 	{
 		"type": "address",
-		"text": [407, 408]
+		"coords": [407, 408]
 	},
 	{
 		"type": "quote",
@@ -69,7 +69,7 @@
 	},
 	{
 		"type": "address",
-		"text": [0, 390]
+		"coords": [0, 390]
 	},
 	{
 		"type": "excerpt",
@@ -78,7 +78,7 @@
 	},
 	{
 		"type": "address",
-		"text": [0, 390]
+		"coords": [0, 390]
 	},
 	{
 		"type": "header",
@@ -87,7 +87,7 @@
 	},
 	{
 		"type": "address",
-		"text": [371, 380]
+		"coords": [371, 380]
 	},
 	{
 		"type": "img",
@@ -96,7 +96,7 @@
 	},
 	{
 		"type": "address",
-		"text": [369, 376]
+		"coords": [369, 376]
 	},
 	{
 		"type": "excerpt",

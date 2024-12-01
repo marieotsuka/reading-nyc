@@ -32,7 +32,7 @@
 				{%- for blurb in read -%}
 					<div class="blurb {{ blurb.type }}" style="{{blurb.style}}">
 						{% if blurb.type == 'address' %}
-							{%- for num in blurb.text -%}{%- if num != 0 -%}
+							{%- for num in blurb.coords -%}{%- if num != 0 -%}
 							<div class="coord">{{num}}</div>
 							{%- endif -%}{%- endfor -%}
 						{% elsif blurb.type == 'img' %}

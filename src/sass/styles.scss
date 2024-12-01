@@ -13,7 +13,7 @@
 	--base: 18px;
 	--size-s: calc(var(--base)*0.95);
 	--size-d: calc(var(--base)*1.1);
-	--size-m: calc(var(--base) * 1.35);
+	--size-m: calc(var(--base) * 1.4);
 	--size-l: calc(var(--base) * 1.95);
 	--size-xl: calc(var(--base) * 2.5);
 
@@ -202,11 +202,15 @@ h2{ //labels
 		height: var(--height-textimg);
 		display: flex;
 		align-items: center;	
+		justify-content: center;
 		background: var(--color-bg);
 		padding: var(--pad-m);
 	}
 }
 
+.blurb-img + .blurb-caption{
+	margin-top: var(--lh);
+}
 
 .text p, .text{
 	--lh: var(--lh-s);
