@@ -1,0 +1,171 @@
+[
+	{
+		"crossstreet": "melrose",
+		"irving": [
+			{
+				"number": 1,
+				"name": "Hyperactive",
+				"style": "--wdth: 200; --wght: 520"
+			},
+			{
+				"number": 4,
+				"name": "JIMMY JAZZ",
+				"style": "--wdth: 50; --wght: 900"
+			},
+			{
+				"number": 4,
+				"name": "Portadella",				
+				"style": "--wdth: 200; --wght: 300",
+				"italic": 1
+			},
+			{
+				"number": 4,
+				"name": "Diamond Braces",
+				"style": "--wdth: 200; --wght: 900",
+				"italic": 1
+			}
+		],
+		"knickerbocker": [
+			{
+				"number": 1,
+				"name": "Store Name"
+			},
+			{
+				"number": 1,
+				"name": "Store Name"
+			}
+		],
+		"coords-irving": [179, 181, 182, 0],
+		"coords-knickerbocker": [184, 185, 199, 200]
+	},
+	{
+		"crossstreet": "jefferson",
+		"irving":[
+		{
+			"number": 24,
+			"name": "La Cumbanchita"
+		},
+		{
+			"number": 35,
+			"name": "David Shuldiner Glass & Mirror Contractors; receiving around corner"
+		},
+		{
+			"number": 42,
+			"name": "J&C Mini Market"
+		},
+		{
+			"number": 45,
+			"name": "Wick"
+		},
+		{	
+			"number": "",
+			"name": "Nook"
+		}
+	],
+	"knickerbocker": [
+		{
+			"number": 1,
+			"name": "Store Name"
+		},
+		{
+			"number": 1,
+			"name": "Store Name"
+		}
+	]
+
+},
+{
+	"crossstreet": "troutman",
+	"irving":[
+	{
+		"number": 44,
+		"name": "Guacuco"
+	},
+	{
+		"number": 54,
+		"name": "Alex Barbershop"
+	},
+	{
+	"number": "",
+	"name": "La Michoacana"
+	},
+	{
+		"number": 65,
+		"name": "The Ten Bells Brooklyn"
+	},
+	{
+		"number": 67,
+		"name": "Green Streets"
+	}
+	],
+	"knickerbocker": [
+		{
+			"number": 1,
+			"name": "Store Name"
+		},
+		{
+			"number": 1,
+			"name": "Store Name"
+		}
+	]
+},
+{
+		"crossstreet": "starr",
+		"site":  "Maria Hernandez Park",
+		"irving":[
+		{
+			"number": 83,
+			"name": "Iglesia Cristiana Pentecostes Movimeitno Misionero Mundial (MMM)"
+		},
+		{
+			"number": 100,
+			"name": "Public 123 School"
+		}
+	],
+	"knickerbocker": [
+		{
+			"number": 1,
+			"name": "Store Name"
+		},
+		{
+			"number": 1,
+			"name": "Store Name"
+		}
+	]
+},
+{
+		"crossstreet": "suydam",
+		"irving":[
+			{
+				"number": 115,
+				"name": "Ridgewood Heights Medical & Dental Center"
+			},
+			{
+				"number": "",
+				"name": "Pharmacy Farmacia"
+			},
+			{
+				"number": "",
+				"name": "Raccoon Thrift"
+			},
+			{
+				"number": "",
+				"name": "West Lab + Gallery"
+			},
+			{
+				"number": 133,
+				"name": "China Garden Delivious Chinese Food Tak Out"
+			}
+		],
+		"knickerbocker": [
+			{
+				"number": 1,
+				"name": "Store Name"
+			},
+			{
+				"number": 1,
+				"name": "Store Name"
+			}
+		]
+}
+]

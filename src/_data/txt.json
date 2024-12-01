@@ -1,0 +1,83 @@
+{
+	"Jefferson":
+	{
+		"title": "Reading",
+		"quote": "The sudden change of ambiance in a street within the space of a few meters; the evident division of a city into zones of distinct psychic atmospheres; the path of least resistance that is automatically followed in aimless strolls (and which has no relation to the physical contour of the terrain); the appealing or repelling character of certain places—these phenomena all seem to be neglected. In any case they are never envisaged as depending on causes that can be uncovered by careful analysis and turned to account.",
+		"quoteattr": "Guy Debord, Introduction to a Critique of Urban Geography[6]"
+	},
+	"Melrose":[
+		{
+			"type": "address",
+			"text": [0, 844]
+		},
+		{
+			"type": "header",
+			"text": "Black Rabbit Barbershop"
+		},
+		{
+			"type": "address",
+			"text": [833, 834]
+		},
+		{
+			"type": "address",
+			"text": [0, 844]
+		},
+		{	
+			"type": "textimg",
+			"text": "THE CITY IS A LANGUAGE",
+			"style": "--wdth: 200; --wght: 900"
+		},
+		{
+			"type": "address",
+			"text": [833, 834]
+		},
+		{
+			"type": "text",
+			"text": "This site is a bibliography that relates the city as a bookform, and the book as a city form.  It's multidirectional and loose and brings a lot of little excerpts and grand thoughts together about how the city is readable in different ways, a kind of bookshelf with its own poetry and content on its surface.   The city itself is a starting point to think how we encounter language in the city in general, and what we do with that language"
+		},
+		{
+			"type": "address",
+			"text": [833, 834]
+		},
+		{
+			"type": "textimg",
+			"text": "Every Building<br>on the Sunset Strip<br>Ed<br>Ruscha",
+			"style": "--wdth: 200; --wght: 420"
+		},
+		{
+			"type": "address",
+			"text": [833, 834]
+		},
+		{
+			"type": "text",
+			"text": "This work by Ed Ruscha flattens the city and lays it end to end in one long continuous “Read”. The Sunset strip in Los Angeles becomes a specimen and snapshot in time"
+		},
+		{
+			"type": "address",
+			"text": [833, 834]
+		},
+		{
+			"type": "quote",
+			"text": "I like words. I like them to be detached from the meaning they normally have. They become just a kind of pictorial element that’s there to be admired.",
+			"caption": "Ed Ruscha"
+		},
+		{
+			"type": "address",
+			"text": [833, 834]
+		},
+		{
+			"type": "quote",
+			"text": "Zaira, a city of memory. Its streets, its buildings, its squares, are made of stories. These stories do not correspond to the way the city actually looks or functions in the present moment, but to the impressions, the images, the expectations, and the hopes of those who have passed through it or thought about it.<br><br>Zaira is a city that looks different depending on who is looking at it. One traveler might see its narrow streets and alleys as pathways to adventure; another might look at the same places and feel the weight of time, of loss, of things that have disappeared or never existed. The city is composed of these different viewpoints, and it is in the intersection of these impressions that it truly exists.<br><br>In Zaira, there are no real streets, no real places. There are only memories—each building is a recollection, each square a dream. As you walk through the city, you’re not so much walking through space as you are walking through time. The street in front of you is an imaginary path; the buildings you pass are fleeting symbols, ephemeral and delicate. There are no true edges to the city, no fixed boundaries; there is only the blurred horizon of memory.<br><br>Zaira has no topography, no clear map. People live in Zaira by creating their own paths, by marking their own landmarks and landmarks that are linked to their own experiences of the city. To live in Zaira is to perpetually reread the city, to reinterpret it according to one’s own stories and histories.<br><br>The traveler who comes to Zaira is faced with the challenge of navigating not the physical space, but the memory-laden landscape of the mind. To understand Zaira, one must not just walk through its streets but listen to its past, to its echoes. The city only makes sense when it is read as a story, when its buildings and streets are no longer seen as objects but as symbols of what has been and what might yet be.",
+			"caption": "Italo Calvino, <em>Invisible Cities</em>"
+		},
+		{
+			"type": "address",
+			"text": [833, 834]
+		},
+		{
+			"type": "header",
+			"text": "QUIXOTE",
+			"style": "--wdth: 200; --wght: 900"
+		}
+	]
+}

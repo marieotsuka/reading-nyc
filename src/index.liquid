@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Reading NYC</title>
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+ </head>
+ <body>
+ 	<main>
+ 		{%- for street in streets -%}
+		<section class="street">
+			<header>
+				<div class="street-coords">
+					{%- for num in street['coords-irving'] -%}{%- if num != 0 -%}
+					<div class="coord">{{ num }}</div>
+					{%- endif -%}{%- endfor -%}
+				</div>
+
+				<h2 class="street-header"><span class="street-name-residential">{{ street.crossstreet | capitalize }}</span> <span class="street-name-commercial">Irving</span></h2>
+				
+				<div class="street-commercial">				
+					{%- for store in street.irving -%}
+						{% include 'spines' %}
+					{%- endfor -%}
+				</div>					
+				<h2 class="street-footer">↓ Knickerbocker ↓</h2>
+			</header>
+
+			<div class="content">
+				{% assign read = readings[street.crossstreet] %}
+				{%- for blurb in read -%}
+					<div class="blurb {{ blurb.type }}" style="{{blurb.style}}">
+						{% if blurb.type == 'address' %}
+							{%- for num in blurb.text -%}{%- if num != 0 -%}
+							<div class="coord">{{num}}</div>
+							{%- endif -%}{%- endfor -%}
+						{% elsif blurb.type == 'img' %}
+							<div class="blurb-img"><img src="assets/img/{{ blurb.src }}"></div>
+						{%- else -%}
+							<div class="blurb-content">{{ blurb.text }}</div>							
+						{%- endif -%}
+						{% if blurb.caption %}
+						<div class="blurb-caption">{{ blurb.caption }}</div>
+						{%- endif -%}
+					</div>
+				{%- endfor -%}				
+			</div>
+			
+			<footer>
+				<h2 class="street-footer">↑ Irving ↑</h2>
+				<div class="street-commercial">				
+					{%- for store in street.knickerbocker -%}
+						{% include 'spines' %}
+					{%- endfor -%}
+				</div>
+				<h2 class="street-header"><span class="street-name-residential">{{ street.crossstreet | capitalize }}</span> <span class="street-name-commercial">Knickerbocker</span></h2>	
+
+				<div class="street-coords">
+					{%- for num in street['coords-knickerbocker'] -%}{%- if num != 0 -%}
+					<div class="coord">{{ num }}</div>
+					{%- endif -%}{%- endfor -%}
+				</div>
+			</footer>
+
+		</section>
+		{%- endfor -%}
+	</main>
+</body>

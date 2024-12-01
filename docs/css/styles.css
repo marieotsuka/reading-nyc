@@ -1,0 +1,224 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "Caper";
+  font-style: normal;
+  src: url("../assets/fonts/Caper-RomanVF.woff2");
+}
+@font-face {
+  font-family: "Caper";
+  font-style: italic;
+  src: url("../assets/fonts/Caper-ItalicVF.woff2");
+}
+:root {
+  --base: 18px;
+  --size-s: calc(var(--base)*0.95);
+  --size-d: calc(var(--base)*1.1);
+  --size-m: calc(var(--base) * 1.35);
+  --size-l: calc(var(--base) * 1.95);
+  --size-xl: calc(var(--base) * 2.5);
+  --lh-s: var(--base);
+  --lh-d: calc(var(--base)* 1.2);
+  --lh-m: calc(var(--base) * 1.5);
+  --lh-l: calc(var(--base) * 2);
+  --lh-xl: calc(var(--base) * 2.5);
+  --pad-m: calc( var(--base) * 1.5);
+  --pad: var(--base);
+  --pad-s: calc( var(--base)*0.75);
+  --height-nav: calc(var(--base) * 5);
+  --height-textimg: calc(var(--base) * 20);
+  --color-bg: white;
+  --color-grey: rgba(217, 217, 217, 1);
+  --wdth: 95;
+  --wght: 450;
+  --ital: 0;
+  --onum: 0;
+  --tnum: 0;
+  --case: 0;
+  --ss01: 0;
+  --ss03: 0;
+}
+
+* {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Caper";
+  font-variation-settings: "wdth" var(--wdth), "wght" var(--wght);
+  font-feature-settings: "onum" var(--onum), "tnum" var(--tnum), "case" var(--case), "ss01" var(--ss01), "ss03" var(--ss03);
+  line-height: var(--lh);
+}
+
+body, h1, h2, h3, h4, h6, p {
+  --lh: var(--lh-d);
+  font-size: var(--size-d);
+  letter-spacing: 0.02em;
+}
+
+img {
+  width: 100%;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(14, 1fr);
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+}
+
+header, footer {
+  position: relative;
+}
+
+header .street-footer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.street-header, .street-footer {
+  height: var(--height-nav);
+  padding: var(--pad-s) 0;
+}
+
+.street {
+  width: 100%;
+  height: 100%;
+  scroll-snap-align: center;
+  position: relative;
+  display: grid;
+  grid-template-rows: 100vh 1fr 100vh;
+  grid-template-columns: 100vw;
+}
+
+.coord {
+  margin: 0 var(--pad-s);
+  --wdth: 120;
+  --tnum: 1;
+  padding: calc(var(--base) * 2) 0;
+}
+
+.street-coords {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.street-coords .coord {
+  position: absolute;
+}
+.street-coords .coord:first-child {
+  top: 0;
+  left: 0;
+}
+.street-coords .coord:nth-child(2) {
+  top: 0;
+  right: 0;
+}
+.street-coords .coord:nth-child(3) {
+  bottom: 0;
+  left: 0;
+}
+.street-coords .coord:nth-child(4) {
+  bottom: 0;
+  right: 0;
+}
+
+.street-commercial {
+  height: calc(100vh - 2 * var(--height-nav));
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  --wdth: 200;
+  --wght: 520;
+}
+
+.name {
+  margin: var(--base);
+}
+.name h3 {
+  --lh: var(--lh-xl);
+  writing-mode: vertical-lr;
+  transform: scale(-1, -1);
+  font-size: var(--size-xl);
+  text-align: left;
+  height: 100%;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.content {
+  position: relative;
+}
+
+.blurb {
+  padding: var(--pad-m);
+}
+.blurb.address {
+  padding: 0;
+}
+.blurb p {
+  margin-bottom: var(--lh);
+}
+
+.address {
+  height: var(--height-nav);
+  display: flex;
+  justify-content: space-between;
+}
+
+.header {
+  --lh: var(--lh-l);
+  font-size: var(--size-l);
+}
+
+.textimg, .img {
+  background: var(--color-grey);
+  padding: var(--lh-xl);
+  margin: var(--pad-s);
+}
+
+.textimg {
+  --lh: var(--lh-xl);
+  font-size: var(--size-xl);
+}
+.textimg .blurb-content {
+  overflow: hidden;
+  text-align: center;
+  height: var(--height-textimg);
+  display: flex;
+  align-items: center;
+  background: var(--color-bg);
+  padding: var(--pad-m);
+}
+
+.text p, .text {
+  --lh: var(--lh-s);
+  --wght: 600;
+  font-size: var(--size-s);
+  letter-spacing: 0.04em;
+}
+
+.excerpt, .excerpt p {
+  letter-spacing: 0.035em;
+}
+
+.quote {
+  --lh: var(--lh-m);
+  font-size: var(--size-m);
+}
+
+.blurb-caption {
+  font-size: var(--size-d);
+}
+.blurb-caption::before {
+  content: "—";
+}
