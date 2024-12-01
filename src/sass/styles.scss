@@ -28,7 +28,7 @@
 	--pad: var(--base);
 	--pad-s: calc( var(--base)*0.75);
 
-	--height-nav: calc(var(--base) * 5);
+	--height-nav: calc(var(--base) * 7);
 	--height-textimg: calc(var(--base) * 20);
 
 	--color-bg: white;
@@ -101,7 +101,7 @@ header{
 	margin: 0 var(--pad-s);
 	--wdth: 120;
 	--tnum: 1;
-	padding: calc(var(--base)*2) 0;
+	padding: calc(var(--base)*3) 0;
 }
 .street-coords{
 	position: absolute;

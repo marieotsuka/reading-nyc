@@ -13,8 +13,7 @@
 	},
 	{	
 		"type": "textimg",
-		"text": "THE CITY IS A LANGU&shy;AGE",
-		"style": "--wdth: 200; --wght: 900"
+		"text": "THE CITY IS A LANGU&shy;AGE"
 	},
 	{
 		"type": "address",
@@ -38,8 +37,7 @@
 	},
 	{
 		"type": "textimg",
-		"text": "Every Building<br>on the Sunset Strip<br>Ed Ruscha",
-		"style": "--wdth: 200; --wght: 420"
+		"text": "Every Building<br>on the Sunset Strip<br>Ed Ruscha"
 	},
 	{
 		"type": "address",

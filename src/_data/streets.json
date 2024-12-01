@@ -28,11 +28,13 @@
 		"knickerbocker": [
 			{
 				"number": 1,
-				"name": "Store Name"
+				"name": "Store Name",
+				"style": "--wdth: 200; --wght: 900"
 			},
 			{
 				"number": 1,
-				"name": "Store Name"
+				"name": "Store Name",
+				"style": "--wdth: 100; --wght: 200"
 			}
 		],
 		"coords-irving": [179, 181, 182, 0],
