@@ -10,16 +10,16 @@
 }
 
 :root{
-	--base: 18px;
-	--size-s: calc(var(--base)*0.95);
-	--size-d: calc(var(--base)*1.1);
+	--base: 19px;
+	--size-s: calc(var(--base)*1.0);
+	--size-d: calc(var(--base)*1.2);
 	--size-m: calc(var(--base) * 1.4);
 	--size-l: calc(var(--base) * 1.95);
 	--size-xl: calc(var(--base) * 2.5);
 
-	--lh-s: var(--base);
-	--lh-d: calc(var(--base)* 1.2);
-	--lh-m: calc(var(--base) * 1.5);
+	--lh-s: calc(var(--base)*1.2);
+	--lh-d: calc(var(--base)* 1.3);
+	--lh-m: calc(var(--base) * 1.6);
 	--lh-l: calc(var(--base) * 2);
 	--lh-xl: calc(var(--base) * 2.5);
 
