@@ -175,7 +175,7 @@ h2 {
   justify-content: space-between;
 }
 
-.header {
+.name {
   --lh: var(--lh-l);
   font-size: var(--size-l);
 }

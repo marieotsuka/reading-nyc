@@ -4,7 +4,7 @@
 		"coords": [0, 444]
 	},
 	{
-		"type": "header",
+		"type": "name",
 		"text": "Black Rabbit Barbershop"
 	},
 	{
@@ -81,7 +81,7 @@
 		"coords": [0, 390]
 	},
 	{
-		"type": "header",
+		"type": "name",
 		"text": "QUIXOTE",
 		"style": "--wdth: 200; --wght: 900"
 	},
