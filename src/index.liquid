@@ -24,7 +24,7 @@
 						{% include 'spines' %}
 					{%- endfor -%}
 				</div>					
-				<h2 class="street-footer">↓ Knickerbocker ↓</h2>
+				<h2 class="street-footer">To Knickerbocker</h2>
 			</header>
 
 			<div class="content">
@@ -35,20 +35,32 @@
 							{%- for num in blurb.coords -%}{%- if num != 0 -%}
 							<div class="coord">{{num}}</div>
 							{%- endif -%}{%- endfor -%}
+						{% elsif blurb.type == 'textimg' %}
+							<div class="img-content random">
+								{%assign texts = blurb.text | split: '*' %}
+								{%- for t in texts -%}
+								<div class="line">{{t}}</div>
+								{%- endfor -%}
+							</div>
 						{% elsif blurb.type == 'img' %}
-							<div class="blurb-img"><img src="assets/img/{{ blurb.src }}"></div>
+							{%assign captions = blurb.text | split: '*' %}
+							<div class="img-content">
+								<figcaption>{{captions[0]}}</figcaption>
+								<img src="assets/img/{{ blurb.src }}">
+								<figcaption>{{captions[1]}}</figcaption>
+							</div>
 						{%- else -%}
-							<div class="blurb-content">{{ blurb.text }}</div>							
+							<div class="blurb-content">{{ blurb.text }}</div>		
 						{%- endif -%}
-						{% if blurb.caption %}
-						<div class="blurb-caption">{{ blurb.caption }}</div>
+						{% if blurb.caption != "" %}
+						<div class="caption">{{ blurb.caption }}</div>
 						{%- endif -%}
 					</div>
 				{%- endfor -%}				
 			</div>
 			
 			<footer>
-				<h2 class="street-footer">↑ Irving ↑</h2>
+				<h2 class="street-footer">To Irving</h2>
 				<div class="street-commercial">				
 					{%- for store in street.knickerbocker -%}
 						{% include 'spines' %}

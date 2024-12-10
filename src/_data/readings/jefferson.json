@@ -1,0 +1,99 @@
+[
+  {
+    "type": "address",
+    "coords": [
+      321,
+      342
+    ],
+    "text": "",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "textimg",
+    "coords": "",
+    "text": "343*Infante Grocery",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "quote",
+    "coords": "",
+    "text": "La rue Simon-Crubellier semblait retenir son souffle dans les heures qui suivaient immédiatement l’aube. Le panneau du boulanger se balançait doucement dans le vent, sa peinture délavée—représentant un pain entouré d’un halo de vapeur—à peine visible à travers la brume du matin. À côté, une plaque émaillée portait toujours l’inscription ‘Cheveux : Salon de Coiffure’, bien que le magasin fût depuis longtemps fermé, ses fenêtres tapissées de posters de concerts déjà passés depuis des années. De l’autre côté de la rue, un panneau de tabac clignotait en rouge et bleu, sa lumière se synchronisant avec l’ouverture et la fermeture de la porte, laissant entrer une figure après l’autre, qui ressortait quelques instants plus tard avec un journal ou un paquet de Gauloises. Ces repères—enseignes, plaques, auvents—étaient comme des indices dans un puzzle que personne ne résolvait, chacun portant sa propre mémoire de ce que la rue avait été, sa présence désormais aussi fantomatique que la brume du matin.",
+    "style": "",
+    "caption": "The Rue Simon-Crubellier seemed to hold its breath in the hours just after dawn. The baker’s sign swung gently in the wind, its faded paint—depicting a loaf with a halo of steam—barely visible through the morning mist. Next door, a faded enamel plaque still read ‘Cheveux: Salon de Coiffure’ though the shop had long since closed, its windows papered with posters for concerts that had already taken place years ago. Across the street, a tabac sign blinked red and blue, its light synchronized with the opening and closing of its door, letting in one figure after another who emerged moments later with a newspaper or a packet of Gauloises. These markers—signs, plaques, awnings—felt like clues in a puzzle no one was solving, each holding its own memory of what the street had been, its presence now as ghostly as the morning fog.<br><br>Georges Perec, <em>Life: A User's Manual</em>",
+    "src": ""
+  },
+  {
+    "type": "img",
+    "coords": "",
+    "text": "Nina Katchadourian*<em>Sorted Books</em>",
+    "style": "",
+    "caption": "",
+    "src": "katchadourian.png"
+  },
+  {
+    "type": "quote",
+    "coords": "",
+    "text": "I’m very interested in that space between knowing and not knowing—what happens in the moment when you don't know exactly what you're doing but you're in the middle of it. It's that moment of discovery or revelation that interests me.",
+    "style": "",
+    "caption": "Nina Katchadourian",
+    "src": ""
+  },
+  {
+    "type": "img",
+    "coords": "",
+    "text": "xx",
+    "style": "",
+    "caption": "",
+    "src": "xx.png"
+  },
+  {
+    "type": "",
+    "coords": "",
+    "text": "The relationship between text and image is often about the tension between certainty and ambiguity. I am interested in how these elements intersect, creating an open space where meaning is not fixed but can be questioned or reimagined.",
+    "style": "",
+    "caption": "Shannon Ebner",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      269,
+      270
+    ],
+    "text": "",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "textimg",
+    "coords": "",
+    "text": "LA DELICIA<br>INC.*GROCERY&<br>DELI*270<br>Jefferson",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "quote",
+    "coords": "",
+    "text": "A saccade (/səˈkɑːd/ sə-KAHD; French: [sakad]; French for 'jerk') is a quick, simultaneous movement of both eyes between two or more phases of fixation in the same direction.[1] In contrast, in smooth-pursuit movements, the eyes move smoothly instead of in jumps.",
+    "style": "",
+    "caption": "...The word appears to have been coined in the 1880s by French ophthalmologist Émile Javal, who used a mirror on one side of a page to observe eye movement in silent reading, and found that it involves a succession of discontinuous individual movements.[3] -- Humans and many animals do not look at a scene in fixed steadiness; instead, the eyes move around, locating interesting parts of the scene and building up a mental, three-dimensional 'map' corresponding to the scene (as opposed to the graphical map of avians, which often relies upon detection of angular movement on the retina).[citation needed] When scanning immediate surroundings or reading, human eyes make saccadic movements and stop several times, moving very quickly between each stop. The speed of movement during each saccade cannot be controlled; the eyes move as fast as they are able.[4] One reason for the saccadic movement of the human eye is that the central part of the retina—known as the fovea—which provides the high-resolution portion of vision is very small in humans, only about 1–2 degrees of vision, but it plays a critical role in resolving objects.[5] By moving the eye so that small parts of a scene can be sensed with greater resolution, body resources can be used more efficiently.[how?]\n\nWikipedia",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      269,
+      270
+    ],
+    "text": "ACTIVE*DRIVE*WAY",
+    "style": "",
+    "caption": "",
+    "src": ""
+  }
+]

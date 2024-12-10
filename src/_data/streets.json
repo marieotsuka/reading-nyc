@@ -1,173 +1,878 @@
 [
-	{
-		"crossstreet": "melrose",
-		"irving": [
-			{
-				"number": 1,
-				"name": "Hyperactive",
-				"style": "--wdth: 200; --wght: 520"
-			},
-			{
-				"number": 4,
-				"name": "JIMMY JAZZ",
-				"style": "--wdth: 50; --wght: 900"
-			},
-			{
-				"number": 4,
-				"name": "Portadella",				
-				"style": "--wdth: 200; --wght: 300",
-				"italic": 1
-			},
-			{
-				"number": 4,
-				"name": "Diamond Braces",
-				"style": "--wdth: 200; --wght: 900",
-				"italic": 1
-			}
-		],
-		"knickerbocker": [
-			{
-				"number": 1,
-				"name": "Store Name",
-				"style": "--wdth: 200; --wght: 900"
-			},
-			{
-				"number": 1,
-				"name": "Store Name",
-				"style": "--wdth: 100; --wght: 200"
-			}
-		],
-		"coords-irving": [179, 181, 182, 0],
-		"coords-knickerbocker": [184, 185, 199, 200]
-	},
-	{
-		"crossstreet": "jefferson",
-		"irving":[
-		{
-			"number": 24,
-			"name": "La Cumbanchita"
-		},
-		{
-			"number": 35,
-			"name": "David Shuldiner Glass & Mirror Contractors"
-		},
-		{
-			"number": 42,
-			"name": "J&C Mini Market"
-		},
-		{
-			"number": 45,
-			"name": "Wick"
-		},
-		{	
-			"number": "",
-			"name": "Nook"
-		}
-	],
-	"knickerbocker": [
-		{
-			"number": 1,
-			"name": "Store Name"
-		},
-		{
-			"number": 1,
-			"name": "Store Name"
-		}
-	]
-
-},
-{
-	"crossstreet": "troutman",
-	"irving":[
-	{
-		"number": 44,
-		"name": "Guacuco"
-	},
-	{
-		"number": 54,
-		"name": "Alex Barbershop"
-	},
-	{
-	"number": "",
-	"name": "La Michoacana"
-	},
-	{
-		"number": 65,
-		"name": "The Ten Bells Brooklyn"
-	},
-	{
-		"number": 67,
-		"name": "Green Streets"
-	}
-	],
-	"knickerbocker": [
-		{
-			"number": 1,
-			"name": "Store Name"
-		},
-		{
-			"number": 1,
-			"name": "Store Name"
-		}
-	]
-},
-{
-		"crossstreet": "starr",
-		"site":  "Maria Hernandez Park",
-		"irving":[
-		{
-			"number": 83,
-			"name": "Iglesia Cristiana Pentecostes Movimeitno Misionero Mundial (MMM)"
-		},
-		{
-			"number": 100,
-			"name": "Public 123 School"
-		}
-	],
-	"knickerbocker": [
-		{
-			"number": 1,
-			"name": "Store Name"
-		},
-		{
-			"number": 1,
-			"name": "Store Name"
-		}
-	]
-},
-{
-		"crossstreet": "suydam",
-		"irving":[
-			{
-				"number": 115,
-				"name": "Ridgewood Heights Medical & Dental Center"
-			},
-			{
-				"number": "",
-				"name": "Pharmacy Farmacia"
-			},
-			{
-				"number": "",
-				"name": "Raccoon Thrift"
-			},
-			{
-				"number": "",
-				"name": "West Lab + Gallery"
-			},
-			{
-				"number": 133,
-				"name": "China Garden Delivious Chinese Food Tak Out"
-			}
-		],
-		"knickerbocker": [
-			{
-				"number": 1,
-				"name": "Store Name"
-			},
-			{
-				"number": 1,
-				"name": "Store Name"
-			}
-		]
-}
+    {
+        "crossstreet": "melrose",
+        "irving": [
+            {
+                "number": 1,
+                "name": "New York State Inspection"
+            },
+            {
+                "number": 4,
+                "name": "The End"
+            }
+        ],
+        "knickerbocker": [
+            {
+                "number": 354,
+                "name": "La Perla Del Ulua"
+            },
+            {
+                "number": 173,
+                "name": "Leury Barber Shop"
+            },
+            {
+                "number": 180,
+                "name": "Bushwick Car Services"
+            },
+            {
+                "number": 182,
+                "name": "Da Ozone Smokeshop"
+            },
+            {
+                "number": 184,
+                "name": "Knickerbocker Mexican Deli Grocery"
+            },
+            {
+                "number": 186,
+                "name": "Sopa de Caracol"
+            },
+            {
+                "number": 188,
+                "name": "Abracadabra Magic Deli"
+            },
+            {
+                "number": 192,
+                "name": "Knickerbocker Laundromat"
+            },
+            {
+                "number": 175,
+                "name": "Bushwick Bark"
+            },
+            {
+                "number": 181,
+                "name": "Canelo Jewelry"
+            },
+            {
+                "number": 181,
+                "name": "C & H Pawn Broker"
+            },
+            {
+                "number": 191,
+                "name": "Knicker Shop"
+            }
+        ]
+    },
+    {
+        "crossstreet": "jefferson",
+        "irving": [
+            {
+                "number": 24,
+                "name": "La Cumbanchita"
+            },
+            {
+                "number": 35,
+                "name": "David Shuldiner Glass & Mirror Contractors"
+            },
+            {
+                "number": 42,
+                "name": "J&C Mini Market"
+            },
+            {
+                "number": 45,
+                "name": "Wick"
+            },
+            {
+                "number": "",
+                "name": "Nook"
+            }
+        ],
+        "knickerbocker": [
+            {
+                "number": 194,
+                "name": "Vinyl Fantasy"
+            },
+            {
+                "number": 200,
+                "name": "Mama Mecho"
+            },
+            {
+                "number": 202,
+                "name": "WINES & LIQOURS"
+            },
+            {
+                "number": 210,
+                "name": "Lucky Laundromat"
+            },
+            {
+                "number": 214,
+                "name": "Valery Deli Corp."
+            },
+            {
+                "number": 193,
+                "name": "Royal Deli & Grill"
+            },
+            {
+                "number": 197,
+                "name": "Teriyaki & Sushi Japanese Grill"
+            },
+            {
+                "number": 199,
+                "name": "Mally’s Deli & Grocery"
+            },
+            {
+                "number": 203,
+                "name": "YOUGH"
+            },
+            {
+                "number": 205,
+                "name": "What Mary Kept"
+            },
+            {
+                "number": 207,
+                "name": "Puffing Clouds"
+            },
+            {
+                "number": 207,
+                "name": "Leo’s"
+            },
+            {
+                "number": 211,
+                "name": "Three Diamond Door"
+            },
+            {
+                "number": 215,
+                "name": "Foster Sundry"
+            }
+        ]
+    },
+    {
+        "crossstreet": "troutman",
+        "irving": [
+            {
+                "number": 44,
+                "name": "Guacuco"
+            },
+            {
+                "number": 54,
+                "name": "Alex Barbershop"
+            },
+            {
+                "number": "",
+                "name": "La Michoacana"
+            },
+            {
+                "number": 65,
+                "name": "The Ten Bells Brooklyn"
+            },
+            {
+                "number": 67,
+                "name": "Green Streets"
+            }
+        ],
+        "knickerbocker": [
+            {
+                "number": 218,
+                "name": "99¢"
+            },
+            {
+                "number": 224,
+                "name": "Knickerbocker Discount"
+            },
+            {
+                "number": 226,
+                "name": "Mermaid LAUNDROMAT"
+            },
+            {
+                "number": 234,
+                "name": "Melany Restaurant II"
+            },
+            {
+                "number": 236,
+                "name": "NEW CITY"
+            },
+            {
+                "number": 238,
+                "name": "Gaby’s Bakery Shop Corp"
+            },
+            {
+                "number": 217,
+                "name": "Knickerbocker FOOD CORP"
+            },
+            {
+                "number": 221,
+                "name": "Mominette"
+            },
+            {
+                "number": 229,
+                "name": "City Fresh Market"
+            }
+        ]
+    },
+    {
+        "crossstreet": "starr",
+        "site": "Maria Hernandez Park",
+        "irving": [
+            {
+                "number": 83,
+                "name": "Iglesia Cristiana Pentecostes Movimeitno Misionero Mundial (MMM)"
+            },
+            {
+                "number": 100,
+                "name": "Public 123 School"
+            }
+        ],
+        "knickerbocker": [
+            {
+                "number": 244,
+                "name": "Metro by TMobile"
+            },
+            {
+                "number": 250,
+                "name": "Quisqueyana"
+            },
+            {
+                "number": 252,
+                "name": "Hills Kitchen"
+            },
+            {
+                "number": 254,
+                "name": "SUNLIT Nail Salon"
+            },
+            {
+                "number": 254,
+                "name": "La Tapatia "
+            },
+            {
+                "number": 258,
+                "name": "TELETRANSFER BROOKLYN"
+            },
+            {
+                "number": 258,
+                "name": "Andrea’s Unisex Inc."
+            }
+        ]
+    },
+    {
+        "crossstreet": "willoughby",
+        "site": "Maria Hernandez Park",
+        "irving": [
+            {
+                "number": 83,
+                "name": "Iglesia Cristiana Pentecostes Movimeitno Misionero Mundial (MMM)"
+            },
+            {
+                "number": 100,
+                "name": "Public 123 School"
+            }
+        ],
+        "knickerbocker": [
+            {
+                "number": 268,
+                "name": "Green Valley"
+            },
+            {
+                "number": 272,
+                "name": "Calderon Brothers Fruit Market"
+            },
+            {
+                "number": 276,
+                "name": "Sabores De Mi Tierra"
+            },
+            {
+                "number": 276,
+                "name": "Dahlia"
+            },
+            {
+                "number": 278,
+                "name": "B&L beauty salon"
+            },
+            {
+                "number": 280,
+                "name": "El Encebollado de Victor"
+            },
+            {
+                "number": 282,
+                "name": "La Nacional"
+            },
+            {
+                "number": 282,
+                "name": "ORLANDO & CARLOS AUTO SCHOOL"
+            }
+        ]
+    },
+    {
+        "crossstreet": "suydam",
+        "irving": [
+            {
+                "number": 115,
+                "name": "Ridgewood Heights Medical & Dental Center"
+            },
+            {
+                "number": "",
+                "name": "Pharmacy Farmacia"
+            },
+            {
+                "number": 117,
+                "name": "Raccoon Thrift"
+            },
+            {
+                "number": 131,
+                "name": "West Lab + Gallery"
+            },
+            {
+                "number": 133,
+                "name": "China Garden Delivious Chinese Food Tak Out"
+            }
+        ],
+        "knickerbocker": [
+            {
+                "number": 290,
+                "name": "Galaxy Food Market"
+            },
+            {
+                "number": 292,
+                "name": "Big Chief EXOTICS"
+            },
+            {
+                "number": 296,
+                "name": "Mi Bella Dama"
+            },
+            {
+                "number": 300,
+                "name": "D&D Electronics"
+            },
+            {
+                "number": 300,
+                "name": "Paramount Fish Market"
+            },
+            {
+                "number": 302,
+                "name": "J.B Beauty Salon"
+            },
+            {
+                "number": 304,
+                "name": "La Exquisita"
+            },
+            {
+                "number": 306,
+                "name": "Unique People Services"
+            },
+            {
+                "number": 308,
+                "name": "Shun Li Store"
+            },
+            {
+                "number": 312,
+                "name": "CIRCO’S Pastry Shop"
+            },
+            {
+                "number": 291,
+                "name": "Bushwick Dental Group"
+            },
+            {
+                "number": 295,
+                "name": "99¢ & U"
+            },
+            {
+                "number": 297,
+                "name": "Lilia’s Car Service"
+            },
+            {
+                "number": 301,
+                "name": "Misha’s Flower Shop"
+            },
+            {
+                "number": 303,
+                "name": "Rent-A-Center"
+            },
+            {
+                "number": 305,
+                "name": "Il Bel Paese "
+            },
+            {
+                "number": 307,
+                "name": "TORNADO CRêPE Dessert Bar"
+            },
+            {
+                "number": 307,
+                "name": "Reyes & Elsamad"
+            },
+            {
+                "number": 309,
+                "name": "Palmetto"
+            }
+        ]
+    },
+    {
+        "crossstreet": "hart",
+        "irving": [
+            {
+                "number": "",
+                "name": "Smoke World"
+            },
+            {
+                "number": 138,
+                "name": "Long Nails"
+            },
+            {
+                "number": 139,
+                "name": "139 Laundromat"
+            },
+            {
+                "number": 142,
+                "name": "Lupita’s Beauty Palace Corp."
+            },
+            {
+                "number": 149,
+                "name": "J’s Barber Shop"
+            }
+        ],
+        "knickerbocker": [
+            {
+                "number": "",
+                "name": "Oak St. Health"
+            },
+            {
+                "number": 322,
+                "name": "99¢ & Up"
+            },
+            {
+                "number": 324,
+                "name": "R.J.G. IMP & EXP"
+            },
+            {
+                "number": 332,
+                "name": "Ersoy Fashion Wear"
+            },
+            {
+                "number": 334,
+                "name": "Laundry Station"
+            },
+            {
+                "number": 336,
+                "name": "Tony’s & Orazio’s PIZZA"
+            },
+            {
+                "number": 315,
+                "name": "Hartbreakers"
+            },
+            {
+                "number": 317,
+                "name": "nyc pet"
+            },
+            {
+                "number": 323,
+                "name": "La Villa"
+            },
+            {
+                "number": 325,
+                "name": "Exquisite Liqour & Wine"
+            },
+            {
+                "number": 329,
+                "name": "Brooklyn Queens: Furniture & Things"
+            },
+            {
+                "number": 331,
+                "name": "Doral Health & Wellness"
+            }
+        ]
+    },
+    {
+        "crossstreet": "dekalb",
+        "irving": [
+            {
+                "number": "",
+                "name": "The Palomino"
+            },
+            {
+                "number": 155,
+                "name": "Irving Bottle"
+            },
+            {
+                "number": 158,
+                "name": "Ollie’s Ice Cream + Stuff"
+            },
+            {
+                "number": 160,
+                "name": "Centro Miosnero Siloé"
+            },
+            {
+                "number": "",
+                "name": "Sapore Di Italia Restaurant"
+            },
+            {
+                "number": 162,
+                "name": "Caraotas"
+            },
+            {
+                "number": 169,
+                "name": "H&R Block"
+            }
+        ],
+        "knickerbocker": [
+            {
+                "number": 338,
+                "name": "Desire"
+            },
+            {
+                "number": 338,
+                "name": "Knickerbocker Agency"
+            },
+            {
+                "number": 338,
+                "name": "Ambateño Restaurant"
+            },
+            {
+                "number": 342,
+                "name": "Happy Face Baby Shop & Grocery Inc."
+            },
+            {
+                "number": 342,
+                "name": "Sisa Nail Salon"
+            },
+            {
+                "number": 337,
+                "name": "VISTA VISION OPTICAL"
+            },
+            {
+                "number": 341,
+                "name": "Knickerbocker Fresh Market"
+            },
+            {
+                "number": 344,
+                "name": "Oops Tea"
+            },
+            {
+                "number": "",
+                "name": "AT&T"
+            },
+            {
+                "number": 348,
+                "name": "Dollar & Deal"
+            },
+            {
+                "number": 350,
+                "name": "GALAXY BEAUTY SUPPLY"
+            },
+            {
+                "number": 354,
+                "name": "Luigy Electronics"
+            },
+            {
+                "number": 358,
+                "name": "Romans Jewelry"
+            },
+            {
+                "number": 358,
+                "name": "J & J Threading Salon"
+            },
+            {
+                "number": 360,
+                "name": "D'Class"
+            },
+            {
+                "number": 360,
+                "name": "Knickerbocker Chemists"
+            },
+            {
+                "number": 343,
+                "name": "Classico Grocery + Tabacco"
+            },
+            {
+                "number": 347,
+                "name": "AG Hardware and Paint"
+            },
+            {
+                "number": 353,
+                "name": "Ms. Pat’s Meat Market"
+            },
+            {
+                "number": 355,
+                "name": "Walgreen’s Pharmacy"
+            }
+        ]
+    },
+    {
+        "crossstreet": "stockholm",
+        "irving": [
+            {
+                "number": 171,
+                "name": "Santa Ana Deli"
+            },
+            {
+                "number": 173,
+                "name": "Zandra Unisex Salon Corp."
+            },
+            {
+                "number": 175,
+                "name": "D Johnny Dry Cleaners"
+            },
+            {
+                "number": 177,
+                "name": "Queen of Swords"
+            },
+            {
+                "number": 179,
+                "name": "Elizabeths Beauty Salon"
+            },
+            {
+                "number": 181,
+                "name": "Bushwick Bark"
+            },
+            {
+                "number": "",
+                "name": "Werkshop"
+            },
+            {
+                "number": 185,
+                "name": "Laundromat"
+            }
+        ],
+        "knickerbocker": [
+            {
+                "number": 363,
+                "name": "CAP WORLD"
+            },
+            {
+                "number": 365,
+                "name": "One Stop Family Mart"
+            },
+            {
+                "number": 367,
+                "name": "Knickerbocker Bagel"
+            },
+            {
+                "number": 369,
+                "name": "Playita Juice Bar"
+            },
+            {
+                "number": 373,
+                "name": "Laundry Bee"
+            },
+            {
+                "number": 375,
+                "name": "Bogatis Snacks"
+            },
+            {
+                "number": 377,
+                "name": "Total Wireless"
+            },
+            {
+                "number": 379,
+                "name": "Moonlight Deli & Grill"
+            },
+            {
+                "number": 362,
+                "name": "Talisman & Delorenz, P.C Accident Lawyers"
+            },
+            {
+                "number": 364,
+                "name": "Anthem"
+            },
+            {
+                "number": 366,
+                "name": "ModernMD Urgent Care"
+            },
+            {
+                "number": 368,
+                "name": "GameStop"
+            },
+            {
+                "number": 370,
+                "name": "MONAMI"
+            },
+            {
+                "number": 372,
+                "name": "WONDER BEAUTY"
+            },
+            {
+                "number": 374,
+                "name": "Fine Care Farmacia"
+            },
+            {
+                "number": 384,
+                "name": "Lou’s Athletic Club"
+            }
+        ]
+    },
+    {
+        "crossstreet": "stanhope",
+        "irving": [],
+        "knickerbocker": [
+            {
+                "number": 386,
+                "name": "Bank of America"
+            },
+            {
+                "number": 390,
+                "name": "Bocker Pharmacy & Food Mart"
+            },
+            {
+                "number": 398,
+                "name": "Ugly Rice Donuts & Corndogs Café"
+            },
+            {
+                "number": 402,
+                "name": "XIOS"
+            },
+            {
+                "number": 406,
+                "name": "Chocolate For Ladies"
+            },
+            {
+                "number": 408,
+                "name": "Dental Center"
+            },
+            {
+                "number": 408,
+                "name": "T-Mobile"
+            },
+            {
+                "number": 385,
+                "name": "Edgar’s Jewelry & Diamonds"
+            },
+            {
+                "number": 389,
+                "name": "Kids Foot Locker"
+            },
+            {
+                "number": 391,
+                "name": "Blue City"
+            },
+            {
+                "number": 399,
+                "name": "Blink fitness"
+            },
+            {
+                "number": 399,
+                "name": "CityMD Bushwick Urgent Care"
+            },
+            {
+                "number": 399,
+                "name": "fabco Shoes"
+            },
+            {
+                "number": 399,
+                "name": "fiVe BEL°W"
+            }
+        ]
+    },
+    {
+        "crossstreet": "himrod",
+        "irving": [],
+        "knickerbocker": [
+            {
+                "number": 410,
+                "name": "Mr. Lemon"
+            },
+            {
+                "number": 412,
+                "name": "Knickerbocker Mall"
+            },
+            {
+                "number": 418,
+                "name": "Foot Locker"
+            },
+            {
+                "number": 422,
+                "name": "Shoppers World"
+            },
+            {
+                "number": 428,
+                "name": "McDonalds"
+            },
+            {
+                "number": 413,
+                "name": "New EYEBROW THREADING Galaxy"
+            },
+            {
+                "number": 415,
+                "name": "Simply Smiles"
+            },
+            {
+                "number": 419,
+                "name": "Hyperactive"
+            },
+            {
+                "number": 421,
+                "name": "JIMMY JAZZ"
+            },
+            {
+                "number": 423,
+                "name": "Portabella"
+            },
+            {
+                "number": 425,
+                "name": "Diamond Braces"
+            }
+        ]
+    },
+    {
+        "crossstreet": "harman",
+        "irving": [],
+        "knickerbocker": [
+            {
+                "number": 436,
+                "name": "JD"
+            },
+            {
+                "number": 440,
+                "name": "Dynamic Optical"
+            },
+            {
+                "number": 444,
+                "name": "Fruitti Yummi Frozen Yogurt"
+            },
+            {
+                "number": 446,
+                "name": "Dunkin'"
+            },
+            {
+                "number": 450,
+                "name": "MAGIC GIRLS Lady Wear"
+            },
+            {
+                "number": 452,
+                "name": "Gourmet Deli & Grill"
+            },
+            {
+                "number": 452,
+                "name": "Starbucks"
+            },
+            {
+                "number": 454,
+                "name": "Star Threading Reflection"
+            },
+            {
+                "number": 435,
+                "name": "Mini Max"
+            },
+            {
+                "number": 437,
+                "name": "SNIPES"
+            },
+            {
+                "number": 441,
+                "name": "USA Vein Clinics"
+            },
+            {
+                "number": 443,
+                "name": "Tony’s Pizzareria"
+            },
+            {
+                "number": 445,
+                "name": "Blazin Skinz"
+            },
+            {
+                "number": 447,
+                "name": "Barato Variety Beauty Supply"
+            }
+        ]
+    },
+    {
+        "crossstreet": "greene",
+        "irving": [],
+        "knickerbocker": []
+    }
 ]
