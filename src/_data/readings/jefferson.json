@@ -13,7 +13,18 @@
   {
     "type": "textimg",
     "coords": "",
-    "text": "343*Infante Grocery",
+    "text": "343*Infante<br>Grocery",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      317,
+      336
+    ],
+    "text": "",
     "style": "",
     "caption": "",
     "src": ""
@@ -27,6 +38,58 @@
     "src": ""
   },
   {
+    "type": "address",
+    "coords": [
+      311,
+      328
+    ],
+    "text": "",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "quote",
+    "coords": "",
+    "text": "When I drive around Los Angeles, which I love to do, I am looking at and for language—and it is looking at me. My relationship to landscape is about a relationship to language.",
+    "style": "",
+    "caption": "Shannon Ebner",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      305,
+      320
+    ],
+    "text": "",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      301,
+      314
+    ],
+    "text": "",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      299,
+      310
+    ],
+    "text": "",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
     "type": "img",
     "coords": "",
     "text": "Nina Katchadourian*<em>Sorted Books</em>",
@@ -35,34 +98,48 @@
     "src": "katchadourian.png"
   },
   {
-    "type": "quote",
-    "coords": "",
-    "text": "I’m very interested in that space between knowing and not knowing—what happens in the moment when you don't know exactly what you're doing but you're in the middle of it. It's that moment of discovery or revelation that interests me.",
+    "type": "address",
+    "coords": [
+      295,
+      308
+    ],
+    "text": "",
     "style": "",
-    "caption": "Nina Katchadourian",
+    "caption": "",
     "src": ""
   },
   {
-    "type": "img",
+    "type": "text",
     "coords": "",
-    "text": "xx",
+    "text": "",
     "style": "",
     "caption": "",
-    "src": "xx.png"
-  },
-  {
-    "type": "",
-    "coords": "",
-    "text": "The relationship between text and image is often about the tension between certainty and ambiguity. I am interested in how these elements intersect, creating an open space where meaning is not fixed but can be questioned or reimagined.",
-    "style": "",
-    "caption": "Shannon Ebner",
     "src": ""
   },
   {
     "type": "address",
     "coords": [
-      269,
-      270
+      293,
+      300
+    ],
+    "text": "",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "quote",
+    "coords": "",
+    "text": "<p>[A strategy is] trying to see what’s already in the world that we’re not engaging with, or thinking about, or making use of, or paying attention to, or finding interesting. The question that’s always in my head is: “What else could be done with what’s here?”</p><p>Not every single project follows that directive, but that’s often a question I’m asking myself. It’s also my way of observing the world. It’s this idea of trying to look for things I haven’t noticed before. Sometimes in doing that a seed of an idea may surface. I’m not necessarily walking around going, “What can I make? What’s here? What can I make?,” but my natural tendency is to try to be looking for those things out there.</p><p>There’s so much oddness in New York City, in the way things are fixed and repaired and done provisionally and slapdash. As a citizen of the city, it drives me crazy sometimes, that stuff here is often repaired in such a shitty way. On the other hand, it can lead to beautiful and charming situations where you see the logic of its repair, its remaking, and its fixing. I like the way that layers of human activity show themselves. I’ve been living here for 20 years, and this interest has become reinforced by the way the city itself illustrates it.</p>",
+    "style": "",
+    "caption": "Nina Katchadourian, From a conversation with Brandon Stosuy, <em>The Creative Independent</em>",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      293,
+      284
     ],
     "text": "",
     "style": "",
@@ -78,20 +155,50 @@
     "src": ""
   },
   {
+    "type": "address",
+    "coords": [
+      291,
+      270
+    ],
+    "text": "",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
     "type": "quote",
     "coords": "",
     "text": "A saccade (/səˈkɑːd/ sə-KAHD; French: [sakad]; French for 'jerk') is a quick, simultaneous movement of both eyes between two or more phases of fixation in the same direction.[1] In contrast, in smooth-pursuit movements, the eyes move smoothly instead of in jumps.",
     "style": "",
-    "caption": "...The word appears to have been coined in the 1880s by French ophthalmologist Émile Javal, who used a mirror on one side of a page to observe eye movement in silent reading, and found that it involves a succession of discontinuous individual movements.[3] -- Humans and many animals do not look at a scene in fixed steadiness; instead, the eyes move around, locating interesting parts of the scene and building up a mental, three-dimensional 'map' corresponding to the scene (as opposed to the graphical map of avians, which often relies upon detection of angular movement on the retina).[citation needed] When scanning immediate surroundings or reading, human eyes make saccadic movements and stop several times, moving very quickly between each stop. The speed of movement during each saccade cannot be controlled; the eyes move as fast as they are able.[4] One reason for the saccadic movement of the human eye is that the central part of the retina—known as the fovea—which provides the high-resolution portion of vision is very small in humans, only about 1–2 degrees of vision, but it plays a critical role in resolving objects.[5] By moving the eye so that small parts of a scene can be sensed with greater resolution, body resources can be used more efficiently.[how?]\n\nWikipedia",
+    "caption": "...The word appears to have been coined in the 1880s by French ophthalmologist Émile Javal, who used a mirror on one side of a page to observe eye movement in silent reading, and found that it involves a succession of discontinuous individual movements.[3] --  Humans and many animals do not look at a scene in fixed steadiness; instead, the eyes move around, locating interesting parts of the scene and building up a mental, three-dimensional 'map' corresponding to the scene (as opposed to the graphical map of avians, which often relies upon detection of angular movement on the retina).[citation needed]  When scanning immediate surroundings or reading, human eyes make saccadic movements and stop several times, moving very quickly between each stop. The speed of movement during each saccade cannot be controlled; the eyes move as fast as they are able.[4] One reason for the saccadic movement of the human eye is that the central part of the retina—known as the fovea—which provides the high-resolution portion of vision is very small in humans, only about 1–2 degrees of vision, but it plays a critical role in resolving objects.[5] By moving the eye so that small parts of a scene can be sensed with greater resolution, body resources can be used more efficiently.[how?]\n\nWikipedia",
     "src": ""
   },
   {
     "type": "address",
     "coords": [
-      269,
-      270
+      289,
+      268
     ],
+    "text": "",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "textimg",
+    "coords": "",
     "text": "ACTIVE*DRIVE*WAY",
+    "style": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      289,
+      266
+    ],
+    "text": "",
     "style": "",
     "caption": "",
     "src": ""

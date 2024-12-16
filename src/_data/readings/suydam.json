@@ -1,8 +1,99 @@
 [
   {
+    "type": "address",
+    "coords": [
+      0,
+      324
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
     "type": "textimg",
     "coords": "",
-    "text": "El Burro*Authentic Mexican Grill*324",
+    "text": "El Burro*Authentic<br>Mexican Grill*324",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      322
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "heading",
+    "coords": "",
+    "text": "The City is A Bookshelf",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      318
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "quote",
+    "coords": "",
+    "text": "Tsundoku (積ん読) is the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them. The term is also used to refer to books ready for reading later when they are on a bookshelf.  The term originated in the Meiji era (1868–1912) as Japanese slang. It combines elements of the terms tsunde-oku (積んでおく, \"to pile things up ready for later and leave\"), and dokusho (読書, \"reading books\"). There are suggestions to use the word in the English language and include it in dictionaries like the Collins Dictionary.",
+    "caption": "Wikipedia",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      310
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      304
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      302
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "img",
+    "coords": "",
+    "text": "A pile of language*<em>Bushwick, NYC</em>",
+    "caption": "",
+    "src": "boxes.jpg"
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      300
+    ],
+    "text": "",
     "caption": "",
     "src": ""
   },
@@ -14,9 +105,52 @@
     "src": ""
   },
   {
-    "type": "heading",
-    "coords": "",
-    "text": "The City is A Bookshelf",
+    "type": "address",
+    "coords": [
+      0,
+      284
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      282
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      276
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      272
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      270
+    ],
+    "text": "",
     "caption": "",
     "src": ""
   },
@@ -28,17 +162,13 @@
     "src": ""
   },
   {
-    "type": "img",
-    "coords": "",
-    "text": "Ragnar Bellerophon",
+    "type": "address",
+    "coords": [
+      0,
+      268
+    ],
+    "text": "",
     "caption": "",
-    "src": "ragnar.png"
-  },
-  {
-    "type": "quote",
-    "coords": "",
-    "text": "Tsundoku (積ん読) is the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them. The term is also used to refer to books ready for reading later when they are on a bookshelf.  The term originated in the Meiji era (1868–1912) as Japanese slang. It combines elements of the terms tsunde-oku (積んでおく, \"to pile things up ready for later and leave\"), and dokusho (読書, \"reading books\"). There are suggestions to use the word in the English language and include it in dictionaries like the Collins Dictionary.",
-    "caption": "Wikipedia",
     "src": ""
   },
   {
@@ -49,9 +179,29 @@
     "src": ""
   },
   {
+    "type": "address",
+    "coords": [
+      0,
+      266
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
     "type": "textimg",
     "coords": "",
-    "text": "GRILLED! * Burgers Shakes All Vegan Hot Dogs Heros",
+    "text": "264*GRILLED!*Suydam",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      264
+    ],
+    "text": "",
     "caption": "",
     "src": ""
   },
@@ -60,6 +210,16 @@
     "coords": "",
     "text": "An index is a map. It’s not a summary or a translation; it’s a way of navigating a landscape.",
     "caption": "David B. R. Dowell",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      0,
+      262
+    ],
+    "text": "",
+    "caption": "",
     "src": ""
   }
 ]

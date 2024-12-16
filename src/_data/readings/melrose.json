@@ -2,7 +2,7 @@
   {
     "type": "address",
     "coords": [
-      0,
+      437,
       444
     ],
     "text": "",
@@ -17,9 +17,49 @@
     "src": ""
   },
   {
+    "type": "address",
+    "coords": [
+      431,
+      440
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
     "type": "text",
     "coords": "",
     "text": "<p>This site is a bibliography that relates the city as a bookform, and the book as a city form.</p><p>It's multidirectional and loose and brings a lot of little excerpts and grand thoughts together about how the city is readable in different ways, a kind of bookshelf with its own poetry and content on its surface.</p><p>The city itself is a starting point to think how we encounter language in the city in general, and what we do with that language.</p>",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      421,
+      436
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      415,
+      430
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      405,
+      420
+    ],
+    "text": "",
     "caption": "",
     "src": ""
   },
@@ -31,11 +71,31 @@
     "src": ""
   },
   {
+    "type": "address",
+    "coords": [
+      397,
+      414
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
     "type": "img",
     "coords": "",
     "text": "Ed Ruscha*<em>Every Building on the Sunset Strip</em>",
     "caption": "",
     "src": "sunset.png"
+  },
+  {
+    "type": "address",
+    "coords": [
+      393,
+      410
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
   },
   {
     "type": "text",
@@ -45,17 +105,57 @@
     "src": ""
   },
   {
-    "type": "quote",
-    "coords": "",
-    "text": "I like words. I like them to be detached from the meaning they normally have. They become just a kind of pictorial element that’s there to be admired.",
-    "caption": "Ed Ruscha",
+    "type": "address",
+    "coords": [
+      389,
+      406
+    ],
+    "text": "",
+    "caption": "",
     "src": ""
   },
   {
     "type": "quote",
     "coords": "",
-    "text": "I am not a painter, I am a poet.<br>Why? I think I’ll tell you.<br>I walk down the street and see a store window,<br>a neon sign that says something like<br>“Watch for the amazing taste of Hostess Cake!”<br>That is a poem, I tell myself.<br>All those lights, glowing in your mind.<br>But then I think,<br>maybe it’s just a commercial.<br><br>I am not a painter, I am a poet.<br>I think I’ll tell you, it’s just that<br>I think about the neon and the words<br>and the flashing lights,<br>and suddenly it feels like something inside<br>me is happening, and I write it down.<br><br>I see things like that all the time,<br>things that become part of the poem<br>without being labeled “art.”<br>Things that aren’t even noticed,<br>like the way the sign over the drugstore<br>shifts and lights up in a strange pattern,<br>the way a sidewalk cracks.<br>It’s all part of the poem.<br><br>I don’t know why. But I write it.<br>I write the world down.<br>A list of things I see,<br>things I hear,<br>things I think.<br><br>It’s like the body of a poem,<br>the material of the poem.<br>I don’t know why, but I know<br>that somehow, even in a commercial,<br>in a neon sign,<br>there is poetry.",
-    "caption": "Frank O’Hara, from “Why I Am Not a Painter”",
+    "text": "My pictures are not that interesting, nor the subject matter. They are simply a collection of facts; my book is more like a collection of Ready-mades.",
+    "caption": "Ed Ruscha",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      389,
+      406
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "poem",
+    "coords": "",
+    "text": "I am not a painter, I am a poet. Why? I think I would rather be a painter, but I am not.<br><br>Well, for instance, Mike Goldberg is starting a painting. I drop in. “Sit down and have a drink” he says. I drink; we drink. I look up. “You have SARDINES in it.” “Yes, it needed something there.” “Oh.” I go and the days go by and I drop in again. The painting is going on, and I go, and the days go by. I drop in. The painting is finished. “Where’s SARDINES?” All that’s left is just letters, “It was too much,” Mike says.<br><br>But me? One day I am thinking of a color: orange. I write a line about orange. Pretty soon it is a whole page of words, not lines. Then another page. There should be so much more, not of orange, of words, of how terrible orange is and life. Days go by. It is even in prose, I am a real poet. My poem is finished and I haven’t mentioned orange yet. It’s twelve poems, I call it ORANGES. And one day in a gallery I see Mike’s painting, called SARDINES.",
+    "caption": "Frank O’Hara, “Why I Am Not a Painter”",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      375,
+      390
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      375,
+      388
+    ],
+    "text": "",
+    "caption": "",
     "src": ""
   },
   {
@@ -66,10 +166,50 @@
     "src": ""
   },
   {
+    "type": "address",
+    "coords": [
+      373,
+      386
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
     "type": "quote",
     "coords": "",
-    "text": "Die Stadt ist ein lebendiger Organismus, der sich ständig verändert und sich in einem Zustand des fortwährenden Werdens befindet. Man muss hindurchgehen und es betrachten, als wäre es ein zu entschlüsselnder Text. Die Stadt ist ein lebender Organismus<br><br>",
-    "caption": "The city is a living organism, constantly shifting, in a state of perpetual becoming. One must walk through it and look at it as though it is a text to be decoded.<br><br>Robert Musil,  <em>Der Mann ohne Eigenschaften (The Man Without Qualities)</em>",
+    "text": "Die Stadt ist ein lebendiger Organismus, der sich ständig verändert und sich in einem Zustand des fortwährenden Werdens befindet. Man muss hindurchgehen und es betrachten, als wäre es ein zu entschlüsselnder Text.<br>Die Stadt ist ein lebender Organismus<br><br>Robert Musil, <em>Der Mann ohne Eigenschaften</em>",
+    "caption": "The city is a living organism, constantly shifting, in a state of perpetual becoming. One must walk through it and look at it as though it is a text to be decoded.<br><br>\nRobert Musil, <em>The Man Without Qualities</em>",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      369,
+      372
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      367,
+      370
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      365,
+      368
+    ],
+    "text": "",
+    "caption": "",
     "src": ""
   }
 ]

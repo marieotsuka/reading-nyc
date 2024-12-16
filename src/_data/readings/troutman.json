@@ -1,37 +1,144 @@
 [
   {
-    "type": "quote",
-    "coords": "",
-    "text": "La città è un discorso, e questo discorso è veramente una lingua: la città parla ai suoi abitanti, noi parliamo la nostra città, la città dove siamo, semplicemente vivendoci, camminandoci, guardandola.",
-    "caption": "The city is a discourse, and this discourse is truly a language: the city speaks to its inhabitants, we speak our city, the city where we are, simply by living in it, by wandering through it, by looking at it. Every time you leave a place, it remains there, in you, like the memory of a journey, and it is never lost. You will always find it again, wherever you go. It speaks of everything that has been said, and everything that has been left unsaid, as if it were a complex text written over time.<br><br>Italo Calvino from “The City and the City,” <em>Le città invisibili (Invisible Cities)</em>",
-    "src": ""
-  },
-  {
-    "type": "img",
-    "coords": "",
-    "text": "Shannon Ebner & David Reinfurt*<em>A Hudson Yard: June, 2014</em>",
+    "type": "address",
+    "coords": [
+      327,
+      322
+    ],
+    "text": "",
     "caption": "",
-    "src": "ebner.png"
-  },
-  {
-    "type": "quote",
-    "coords": "",
-    "text": "I think of my work as a kind of scavenging, as if I’m walking around the city looking for things to take out of context and put back into the world in a different way.",
-    "caption": "Shannon Ebner",
     "src": ""
   },
   {
     "type": "heading",
     "coords": "",
-    "text": "Walking is Writing",
+    "text": "Walking is Reading",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      321,
+      318
+    ],
+    "text": "",
     "caption": "",
     "src": ""
   },
   {
     "type": "quote",
     "coords": "",
-    "text": "The city is like a text that is to be read… When we walk, we are creating a story, a narrative, that is linked to the space we move through.",
-    "caption": "Michel de Certeau, <em>The Practice of Everyday Life</em>",
+    "text": "Walkers are ‘practitioners of the city,’ for the city is made to be walked. A city is a language, a repository of possibilities, and walking is the act of speaking that language, of selecting from those possibilities. Just as language limits what can be said, architecture limits where one can walk, but the walker invents other ways to go.",
+    "caption": "Rebecca Solnit, from “A History of Walking”",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      313,
+      306
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "quote",
+    "coords": "",
+    "text": "La ville parle à ses habitants, nous parlons notre ville, la ville où nous sommes, simplement en y habitant, en la traversant, en la regardant.",
+    "caption": "[t]he city speaks to its inhabitants, we speak our city, the city where we are, simply by inhabiting it, by traversing it, by looking at it”.  \n\nRoland Barthes, Semiology and Urbanism",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      305,
+      302
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "img",
+    "coords": "",
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      293,
+      298
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "text",
+    "coords": "",
+    "text": "",
+    "caption": "tktkt",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      287,
+      292
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "quote",
+    "coords": "",
+    "text": "To practice space is thus to repeat the joyful and silent experience of childhood; it is, in a place, to be other and to move toward the other...Kandinsky dreamed of: 'a great city built according to all the rules of architecture and then suddenly shaken by a force that defies all calculation.",
+    "caption": "Michel de Certeau\nThe Practice of Everyday Life",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      279,
+      280
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      277,
+      278
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      275,
+      276
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      273,
+      274
+    ],
+    "text": "",
+    "caption": "",
     "src": ""
   },
   {
@@ -42,10 +149,23 @@
     "src": ""
   },
   {
-    "type": "",
-    "coords": "",
-    "text": "The dérive is not just about drifting through space, it’s about seeing the city in a new way. It is about encountering the city as it really is, with its contradictions, surprises, and hidden meanings.",
-    "caption": "Guy Debord",
+    "type": "address",
+    "coords": [
+      273,
+      272
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      271,
+      270
+    ],
+    "text": "",
+    "caption": "",
     "src": ""
   },
   {
@@ -54,5 +174,52 @@
     "text": "kest gak",
     "caption": "Kest Gak, Graffiti Art Kings",
     "src": "kest.png"
+  },
+  {
+    "type": "address",
+    "coords": [
+      273,
+      272
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "quote",
+    "coords": "",
+    "text": "It seems thus possible to give a preliminary definition of walking as a space of enunciation.",
+    "caption": "Michel de Certeau\nThe Practice of Everyday Life",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      275,
+      278
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      273,
+      274
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
+  },
+  {
+    "type": "address",
+    "coords": [
+      267,
+      268
+    ],
+    "text": "",
+    "caption": "",
+    "src": ""
   }
 ]
