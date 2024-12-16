@@ -255,3 +255,16 @@ h2 {
   font-size: var(--size-m);
   line-height: var(--lh-m);
 }
+
+.park {
+  font-size: 230px;
+  letter-spacing: -0.01em;
+  writing-mode: vertical-lr;
+  white-space: nowrap;
+  line-height: 1.15;
+  --wght: 200;
+  --wdth: 50;
+  position: relative;
+  left: 10px;
+  margin: auto;
+}

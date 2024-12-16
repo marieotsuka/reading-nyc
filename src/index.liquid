@@ -28,6 +28,9 @@
 			</header>
 
 			<div class="content">
+				{% if street.crossstreet == 'willoughby' %}
+					<div class="park">Maria Hernandez Park</div>
+				{% else %}
 				{% assign read = readings[street.crossstreet] %}
 				{%- for blurb in read -%}
 					<div class="blurb {{ blurb.type }}" style="{{blurb.style}}">
@@ -56,7 +59,8 @@
 						<div class="caption">{{ blurb.caption }}</div>
 						{%- endif -%}
 					</div>
-				{%- endfor -%}				
+				{%- endfor -%}
+				{% endif %}			
 			</div>
 			
 			<footer>
