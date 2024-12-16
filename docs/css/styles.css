@@ -27,7 +27,7 @@
   --pad-l: calc( var(--base) * 5);
   --height-nav: calc(var(--base) * 3);
   --height-textimg: calc(var(--base) * 28);
-  --width-textimg: calc(var(--base) * 20);
+  --width-textimg: calc(var(--base) * 18);
   --color-bg: white;
   --color-grey: rgba(217, 217, 217, 1);
   --wdth: 100;
@@ -87,8 +87,6 @@ header .street-footer {
 
 .street {
   width: 100%;
-  height: 100vh;
-  overflow: scroll;
   scroll-snap-align: center;
   position: relative;
   display: grid;
@@ -98,6 +96,8 @@ header .street-footer {
 @media screen and (min-width: 700px) {
   .street {
     width: 50vw;
+    height: 100vh;
+    overflow: scroll;
   }
 }
 @media screen and (min-width: 1000px) {
@@ -196,7 +196,8 @@ h2 {
 
 .textimg, .img {
   background: var(--color-grey);
-  padding: var(--lh-l);
+  padding-top: var(--lh-l);
+  padding-bottom: var(--lh-l);
   margin: var(--pad-s);
 }
 
